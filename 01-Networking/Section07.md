@@ -30,13 +30,13 @@ You can use the tracert command to do the same thing, by typing “tracert 8.8.8
 ### Assessment: Quiz
 
 You are the new IT admin, and you need to find the network configuration. What should you use?
-- [ ] ipconfig
+- [x] ipconfig
 - [ ] cmd
 - [ ] netchange
 - [ ] newnet
 
 To get the most detailed network configuration, use this command.
-- [ ] ipconfig /all
+- [x] ipconfig /all
 - [ ] ipconfig
 - [ ] ipconfig/renew
 - [ ] ipconfig/most
