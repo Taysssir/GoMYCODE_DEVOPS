@@ -55,7 +55,8 @@ we have this mask 255.128.0.0 belongs to class a so how many subnets and hosts p
 - [ ] 2 subnet with 16,777,214 hosts each
 - [x] 2 subnet with 8,388,606 hosts each
 - [ ] 1 subnet with 16,777,214 hosts
+
 ===========
 
-#LINK
+LINK
 * [IP addressing](https://www.geeksforgeeks.org/introduction-of-classful-ip-addressing/)
