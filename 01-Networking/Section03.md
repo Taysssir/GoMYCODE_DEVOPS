@@ -48,3 +48,7 @@ we have this address 127.0.01 , this address belongs to
  - [ ] Class A
  - [ ] Class B
  - [x] None
+------------------
+LINK : 
+
+* [IP Adressing basics](https://www.cisco.com/c/en/us/support/docs/ip/routing-information-protocol-rip/13788-3.html)
